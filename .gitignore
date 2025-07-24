@@ -1,0 +1,27 @@
+# Development artifacts
+*.zip
+*.tar.gz
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.swp
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Node modules (if future JS dependencies added)
+node_modules/
+
+# Build outputs (if future build process added)
+dist/
+build/
